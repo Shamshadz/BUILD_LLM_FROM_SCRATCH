@@ -11,3 +11,4 @@ help me with this :
 2. organizing the code and files
 3. explaining if i don't understand the concept properly
 4. Helping with Dependencies installation and run commands
+5. with missing imports

@@ -12,5 +12,5 @@ help me with this :
 3. explaining if i don't understand the concept properly
 4. Helping with Dependencies installation and run commands
 5. with missing imports
-6. add comments to the code . explaning the code, architecture, usecase, why, etc
+6. add comments to the code . explaning the code, architecture, usecase, why, reasoning behind it , etc
 7.

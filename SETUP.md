@@ -22,6 +22,19 @@ Jupyter Lab from this folder:
 .\.venv\Scripts\jupyter lab
 ```
 
+Install the local chapter modules in editable mode so they can be imported from
+notebooks regardless of the notebook working directory:
+
+```powershell
+.\.venv\Scripts\python -m pip install -e .
+```
+
+For example, reusable Chapter 2 utilities can be imported with:
+
+```python
+from ch02 import SimpleTokenizerV1, GPTDatasetV1, create_dataloader_v1
+```
+
 To verify the environment:
 
 ```powershell

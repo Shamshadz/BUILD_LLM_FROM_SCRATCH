@@ -11,3 +11,4 @@ tensorflow>=2.18
 tqdm>=4.66
 pandas>=2.2
 psutil>=5.9
+certifi>=2024.2.2

@@ -5,7 +5,7 @@ __pycache__/
 *.egg-info/
 .ipynb_checkpoints/
 build/
-*.pth
+
 
 # Test and tooling output
 .pytest_cache/
@@ -19,3 +19,9 @@ Thumbs.db
 .DS_Store
 
 ch05/gpt2/
+*.pth
+ch06/gpt2/
+ch07/gpt2/
+*.zip
+*.csv
+*.tsv
